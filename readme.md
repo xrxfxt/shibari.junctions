@@ -7,11 +7,11 @@ away from the junction? This is something that you may  not have thought much
 about if you’ve always been tying to a known  pattern, but when you start to
 try to create on your own, understanding a few basic building blocks can be
 extremely helpful.
-<img src="assets/building-blocks-junctions-Sq-1200x1200.jpg" align="right" height="80vh">
+<img src="assets/building-blocks-junctions-Sq-1200x1200.jpg" height="80vh">
 
 Here are a few options when two ropes cross each other and how they are all
 related…
-<img src="assets/building-blocks-junctions-Sq-1200x1200.jpg" align="right" height="80vh">
+<img src="assets/building-blocks-junctions-Sq-1200x1200.jpg" height="80vh">
 
 When two rope cross each other you will either connect them or not  connect
 them. If you connect them you have a few simple choices … and  they are all
