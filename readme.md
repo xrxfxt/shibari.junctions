@@ -1,6 +1,6 @@
 [Building Blocks – Junctions - TheDuchy](https://www.theduchy.com/building-blocks-junctions/#big-picture)
 
-![junctions](assets/building-blocks-junctions-Sq-1200x1200.jpg)
+<img src="assets/building-blocks-junctions-Sq-1200x1200.jpg" align="right" height="80vh">
 
 One very common activity when rigging is when deciding what to do  when two
 ropes cross each other. Which direction do you want them to go as they move
