@@ -11,6 +11,7 @@ extremely helpful.
 
 Here are a few options when two ropes cross each other and how they are all
 related…
+<img src="assets/building-blocks-junctions-Sq-1200x1200.jpg" align="right" height="80vh">
 
 When two rope cross each other you will either connect them or not  connect
 them. If you connect them you have a few simple choices … and  they are all
